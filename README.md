@@ -1,7 +1,7 @@
 # Data Science Projects :mortar_board:
 | № | Name | Goal  | Tools |
 |---|------|-------|-------|
-| 1 | [Sensor Data in Materials Engineering](https://github.com/AlekseiRiabinin/-phase-diagram) | Processing data obtained from sensors and devices along with predicting temperature of crystalline material | CatBoost, XGBoost, LightGBM, Sklearn, Pandas, Matplotlib, Seaborn |
+| 1 | [Application of Sensor Data](https://github.com/AlekseiRiabinin/-phase-diagram) | Processing data obtained from sensors and devices along with predicting temperature of crystalline material | CatBoost, XGBoost, LightGBM, Sklearn, Pandas, Matplotlib, Seaborn |
 | 2 | [Age Detection with Deep Learning CNN](https://github.com/AlekseiRiabinin/-computer-vision) | Automatic age estimation from images collected in APPA-REAL database by means of deep neural networks | PyTorch, Keras, Pandas, Numpy, Matplotlib, Seaborn |
 | 3 | [NLP: Toxic Comment Classification](https://github.com/AlekseiRiabinin/-text-processing) | Search and filter of toxic comments written in text messages using natural language toolkit and pre-trained model | PyTorch, PySpark, Sklearn, NLTK, Pandas, Numpy, Matplotlib, Seaborn |
 | 4 | [Forecasting Taxi Service Data](https://github.com/AlekseiRiabinin/-taxi-booking) | Development of the model based on time-series streaming data for forecasting number of taxi orders | PySpark, Sklearn, Pandas, Numpy, Matplotlib, Seaborn |
