@@ -14,5 +14,5 @@
 | 11 | [Analysis of Gaming Platforms](https://github.com/AlekseiRiabinin/-computer-games) | Evaluation of gaming industry and the most advanced platforms along with types of computer games | Pandas, Numpy, Scipy, Matplotlib |
 | 12 | [Phone Plans of Telecom Company](https://github.com/AlekseiRiabinin/-mobile-network) | Detailed analysis of the customers behavior and search for the optimal tariff based on the data from the mobile operator | Pandas, Numpy, Scipy, Matplotlib |
 | 13 | [Market Analysis for Real Estate](https://github.com/AlekseiRiabinin/-real-estate) | Exploratory analysis of the market value of real estate and typical parameters of apartments from statistical data | Pandas, Numpy, Matplotlib |
-| 14 | [Credit Score Monitoring Service](https://github.com/AlekseiRiabinin/-credit-scoring) | Research on influence of the marital status and the number of children clients have for repaying the loan on time | Pandas |
+| 14 | [Credit Score Monitoring Service](https://github.com/AlekseiRiabinin/-credit-scoring) | Research on influence of the income, social and marital status  clients have for repaying the loan on time | Pandas |
 | 15 | [Music Streaming Service](https://github.com/AlekseiRiabinin/-music-service) | Data analysis and comparison of the user preferences based on data received from two cities - Moscow and St. Petersburg | Pandas |
